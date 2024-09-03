@@ -1,0 +1,6 @@
+inputString,n,p,expectedOutput
+helloworld,5,6,hellow
+helloworld,2,0,lloworld
+teststring,3,4,testing
+sampletext,4,7,samplet
+example,2,3,exale

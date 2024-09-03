@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS\\DBCLvKTPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6176C863-1E13-4136-8E4F-CE9E28853676}|TestBai8\\TestBai8.csproj|d:\\cs\\dbclvktpm\\testbai8\\testbai8_csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6176C863-1E13-4136-8E4F-CE9E28853676}|TestBai8\\TestBai8.csproj|solutionrelative:testbai8\\testbai8_csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|d:\\cs\\dbclvktpm\\testbai9\\testbai9_csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|solutionrelative:testbai9\\testbai9_csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|d:\\cs\\dbclvktpm\\testbai9\\testbai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|solutionrelative:testbai9\\testbai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|d:\\cs\\dbclvktpm\\testbai9\\data\\testcases.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|solutionrelative:testbai9\\data\\testcases.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6176C863-1E13-4136-8E4F-CE9E28853676}|TestBai8\\TestBai8.csproj|d:\\cs\\dbclvktpm\\testbai8\\data\\testcases_sum.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6176C863-1E13-4136-8E4F-CE9E28853676}|TestBai8\\TestBai8.csproj|solutionrelative:testbai8\\data\\testcases_sum.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1537EA91-FFED-49B4-9255-BDC844907857}|Bai8\\Bai8.csproj|d:\\cs\\dbclvktpm\\bai8\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1537EA91-FFED-49B4-9255-BDC844907857}|Bai8\\Bai8.csproj|solutionrelative:bai8\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6176C863-1E13-4136-8E4F-CE9E28853676}|TestBai8\\TestBai8.csproj|d:\\cs\\dbclvktpm\\testbai8\\testbai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6176C863-1E13-4136-8E4F-CE9E28853676}|TestBai8\\TestBai8.csproj|solutionrelative:testbai8\\testbai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAADB8-C013-47C1-AF36-1AAEEBD7E168}|TestBai10\\TestBai10.csproj|d:\\cs\\dbclvktpm\\testbai10\\testbai10_csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AAADB8-C013-47C1-AF36-1AAEEBD7E168}|TestBai10\\TestBai10.csproj|solutionrelative:testbai10\\testbai10_csv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAADB8-C013-47C1-AF36-1AAEEBD7E168}|TestBai10\\TestBai10.csproj|d:\\cs\\dbclvktpm\\testbai10\\testbai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AAADB8-C013-47C1-AF36-1AAEEBD7E168}|TestBai10\\TestBai10.csproj|solutionrelative:testbai10\\testbai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|d:\\cs\\dbclvktpm\\testbai9\\testbai9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B3F99CE-B280-4F64-9E2B-67CD5688E68B}|TestBai9\\TestBai9.csproj|solutionrelative:testbai9\\testbai9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155D7E56-EE73-4918-A318-116935DF53F1}|Bai9\\Bai9.csproj|d:\\cs\\dbclvktpm\\bai9\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155D7E56-EE73-4918-A318-116935DF53F1}|Bai9\\Bai9.csproj|solutionrelative:bai9\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AAADB8-C013-47C1-AF36-1AAEEBD7E168}|TestBai10\\TestBai10.csproj|d:\\cs\\dbclvktpm\\testbai10\\data\\test.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40AAADB8-C013-47C1-AF36-1AAEEBD7E168}|TestBai10\\TestBai10.csproj|solutionrelative:testbai10\\data\\test.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F6AD2B-3B22-49CA-8DA6-F47E6FCC3024}|Bai10\\Bai10.csproj|d:\\cs\\dbclvktpm\\bai10\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F6AD2B-3B22-49CA-8DA6-F47E6FCC3024}|Bai10\\Bai10.csproj|solutionrelative:bai10\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43F6AD2B-3B22-49CA-8DA6-F47E6FCC3024}|Bai10\\Bai10.csproj|d:\\cs\\dbclvktpm\\bai10\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43F6AD2B-3B22-49CA-8DA6-F47E6FCC3024}|Bai10\\Bai10.csproj|solutionrelative:bai10\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155D7E56-EE73-4918-A318-116935DF53F1}|Bai9\\Bai9.csproj|d:\\cs\\dbclvktpm\\bai9\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155D7E56-EE73-4918-A318-116935DF53F1}|Bai9\\Bai9.csproj|solutionrelative:bai9\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1537EA91-FFED-49B4-9255-BDC844907857}|Bai8\\Bai8.csproj|d:\\cs\\dbclvktpm\\bai8\\bai8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1537EA91-FFED-49B4-9255-BDC844907857}|Bai8\\Bai8.csproj|solutionrelative:bai8\\bai8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1537EA91-FFED-49B4-9255-BDC844907857}|Bai8\\Bai8.csproj|d:\\cs\\dbclvktpm\\bai8\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1537EA91-FFED-49B4-9255-BDC844907857}|Bai8\\Bai8.csproj|solutionrelative:bai8\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C301817F-4E18-4DEA-B8B6-FBEA873E430E}|TestBai7\\TestBai7.csproj|d:\\cs\\dbclvktpm\\testbai7\\testbai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C301817F-4E18-4DEA-B8B6-FBEA873E430E}|TestBai7\\TestBai7.csproj|solutionrelative:testbai7\\testbai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155D7E56-EE73-4918-A318-116935DF53F1}|Bai9\\Bai9.csproj|d:\\cs\\dbclvktpm\\bai9\\bai9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{155D7E56-EE73-4918-A318-116935DF53F1}|Bai9\\Bai9.csproj|solutionrelative:bai9\\bai9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458248EE-81A0-4ACA-B01B-35DCEEC959E2}|Bai7\\Bai7.csproj|d:\\cs\\dbclvktpm\\bai7\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458248EE-81A0-4ACA-B01B-35DCEEC959E2}|Bai7\\Bai7.csproj|solutionrelative:bai7\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CE4A3A-15DA-4052-9EF4-143075A80E4B}|TestBai6\\TestBai6.csproj|d:\\cs\\dbclvktpm\\testbai6\\testbai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CE4A3A-15DA-4052-9EF4-143075A80E4B}|TestBai6\\TestBai6.csproj|solutionrelative:testbai6\\testbai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C301817F-4E18-4DEA-B8B6-FBEA873E430E}|TestBai7\\TestBai7.csproj|d:\\cs\\dbclvktpm\\testbai7\\testbai7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C301817F-4E18-4DEA-B8B6-FBEA873E430E}|TestBai7\\TestBai7.csproj|solutionrelative:testbai7\\testbai7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458248EE-81A0-4ACA-B01B-35DCEEC959E2}|Bai7\\Bai7.csproj|d:\\cs\\dbclvktpm\\bai7\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458248EE-81A0-4ACA-B01B-35DCEEC959E2}|Bai7\\Bai7.csproj|solutionrelative:bai7\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestBai8_CSV.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai8\\TestBai8_CSV.cs",
+              "RelativeDocumentMoniker": "TestBai8\\TestBai8_CSV.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai8\\TestBai8_CSV.cs",
+              "RelativeToolTip": "TestBai8\\TestBai8_CSV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:17:16.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testcases_sum.csv",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai8\\data\\testcases_sum.csv",
+              "RelativeDocumentMoniker": "TestBai8\\data\\testcases_sum.csv",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai8\\data\\testcases_sum.csv",
+              "RelativeToolTip": "TestBai8\\data\\testcases_sum.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-10T11:16:31.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testcases.csv",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai9\\data\\testcases.csv",
+              "RelativeDocumentMoniker": "TestBai9\\data\\testcases.csv",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai9\\data\\testcases.csv",
+              "RelativeToolTip": "TestBai9\\data\\testcases.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-10T10:55:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestBai9_CSV.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai9\\TestBai9_CSV.cs",
+              "RelativeDocumentMoniker": "TestBai9\\TestBai9_CSV.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai9\\TestBai9_CSV.cs",
+              "RelativeToolTip": "TestBai9\\TestBai9_CSV.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:55:02.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test.csv",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai10\\data\\test.csv",
+              "RelativeDocumentMoniker": "TestBai10\\data\\test.csv",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai10\\data\\test.csv",
+              "RelativeToolTip": "TestBai10\\data\\test.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-10T09:14:43.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestBai10_CSV.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai10\\TestBai10_CSV.cs",
+              "RelativeDocumentMoniker": "TestBai10\\TestBai10_CSV.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai10\\TestBai10_CSV.cs",
+              "RelativeToolTip": "TestBai10\\TestBai10_CSV.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:13:25.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestBai10.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai10\\TestBai10.cs",
+              "RelativeDocumentMoniker": "TestBai10\\TestBai10.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai10\\TestBai10.cs",
+              "RelativeToolTip": "TestBai10\\TestBai10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:06:05.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai10\\Demo.cs",
+              "RelativeDocumentMoniker": "Bai10\\Demo.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai10\\Demo.cs",
+              "RelativeToolTip": "Bai10\\Demo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:03:35.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bai10.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai10\\Bai10.cs",
+              "RelativeDocumentMoniker": "Bai10\\Bai10.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai10\\Bai10.cs",
+              "RelativeToolTip": "Bai10\\Bai10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:02:24.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBai9.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai9\\TestBai9.cs",
+              "RelativeDocumentMoniker": "TestBai9\\TestBai9.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai9\\TestBai9.cs",
+              "RelativeToolTip": "TestBai9\\TestBai9.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwDUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:31:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai9\\Demo.cs",
+              "RelativeDocumentMoniker": "Bai9\\Demo.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai9\\Demo.cs",
+              "RelativeToolTip": "Bai9\\Demo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:27:45.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bai8.csproj",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai8\\Bai8.csproj",
+              "RelativeDocumentMoniker": "Bai8\\Bai8.csproj",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai8\\Bai8.csproj",
+              "RelativeToolTip": "Bai8\\Bai8.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T08:24:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bai9.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai9\\Bai9.cs",
+              "RelativeDocumentMoniker": "Bai9\\Bai9.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai9\\Bai9.cs",
+              "RelativeToolTip": "Bai9\\Bai9.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:24:09.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestBai8.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai8\\TestBai8.cs",
+              "RelativeDocumentMoniker": "TestBai8\\TestBai8.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai8\\TestBai8.cs",
+              "RelativeToolTip": "TestBai8\\TestBai8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:51:28.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai8\\Demo.cs",
+              "RelativeDocumentMoniker": "Bai8\\Demo.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai8\\Demo.cs",
+              "RelativeToolTip": "Bai8\\Demo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:41:55.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai8.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai8\\Bai8.cs",
+              "RelativeDocumentMoniker": "Bai8\\Bai8.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai8\\Bai8.cs",
+              "RelativeToolTip": "Bai8\\Bai8.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA6wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:40:18.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestBai7.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai7\\TestBai7.cs",
+              "RelativeDocumentMoniker": "TestBai7\\TestBai7.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai7\\TestBai7.cs",
+              "RelativeToolTip": "TestBai7\\TestBai7.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:30:32.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestBai9.csproj",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai9\\TestBai9.csproj",
+              "RelativeDocumentMoniker": "TestBai9\\TestBai9.csproj",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai9\\TestBai9.csproj",
+              "RelativeToolTip": "TestBai9\\TestBai9.csproj",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T08:29:31.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bai9.csproj",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai9\\Bai9.csproj",
+              "RelativeDocumentMoniker": "Bai9\\Bai9.csproj",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai9\\Bai9.csproj",
+              "RelativeToolTip": "Bai9\\Bai9.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T08:34:06.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai7\\Demo.cs",
+              "RelativeDocumentMoniker": "Bai7\\Demo.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai7\\Demo.cs",
+              "RelativeToolTip": "Bai7\\Demo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:35:57.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestBai6.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai6\\TestBai6.cs",
+              "RelativeDocumentMoniker": "TestBai6\\TestBai6.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai6\\TestBai6.cs",
+              "RelativeToolTip": "TestBai6\\TestBai6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:33:45.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestBai7.csproj",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\TestBai7\\TestBai7.csproj",
+              "RelativeDocumentMoniker": "TestBai7\\TestBai7.csproj",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\TestBai7\\TestBai7.csproj",
+              "RelativeToolTip": "TestBai7\\TestBai7.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T09:29:18.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "D:\\CS\\DBCLvKTPM\\Bai7\\Bai7.cs",
+              "RelativeDocumentMoniker": "Bai7\\Bai7.cs",
+              "ToolTip": "D:\\CS\\DBCLvKTPM\\Bai7\\Bai7.cs",
+              "RelativeToolTip": "Bai7\\Bai7.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:21:37.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

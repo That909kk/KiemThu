@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KQ3GHVVNUc=",
+  "success": true,
+  "projectFilePath": "D:\\CS\\DBCLvKTPM\\Bai5\\Bai5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MINHTHUAT\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\MINHTHUAT\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
