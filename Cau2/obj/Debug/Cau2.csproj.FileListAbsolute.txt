@@ -1,0 +1,7 @@
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau2\bin\Debug\Cau2.exe.config
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau2\bin\Debug\Cau2.exe
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau2\bin\Debug\Cau2.pdb
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau2\obj\Debug\Cau2.csproj.AssemblyReference.cache
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau2\obj\Debug\Cau2.csproj.CoreCompileInputs.cache
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau2\obj\Debug\Cau2.exe
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau2\obj\Debug\Cau2.pdb

@@ -1,0 +1,14 @@
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau1\bin\Debug\Cau1.exe.config
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau1\bin\Debug\Cau1.exe
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau1\bin\Debug\Cau1.pdb
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.csproj.AssemblyReference.cache
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.exe
+D:\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.pdb
+C:\Users\MINHTHUAT\Desktop\KTTH_DBCLvaKTPM\THBTTK\Cau1\bin\Debug\Cau1.exe.config
+C:\Users\MINHTHUAT\Desktop\KTTH_DBCLvaKTPM\THBTTK\Cau1\bin\Debug\Cau1.exe
+C:\Users\MINHTHUAT\Desktop\KTTH_DBCLvaKTPM\THBTTK\Cau1\bin\Debug\Cau1.pdb
+C:\Users\MINHTHUAT\Desktop\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.csproj.AssemblyReference.cache
+C:\Users\MINHTHUAT\Desktop\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+C:\Users\MINHTHUAT\Desktop\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.exe
+C:\Users\MINHTHUAT\Desktop\KTTH_DBCLvaKTPM\THBTTK\Cau1\obj\Debug\Cau1.pdb

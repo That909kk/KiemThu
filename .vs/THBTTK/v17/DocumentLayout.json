@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8057EBB-A08E-422E-9997-7831E665629D}|UnitTestCanBac3\\UnitTestCau2.csproj|c:\\users\\minhthuat\\desktop\\ktth_dbclvaktpm\\thbttk\\unittestcanbac3\\unittestbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8057EBB-A08E-422E-9997-7831E665629D}|UnitTestCanBac3\\UnitTestCau2.csproj|solutionrelative:unittestcanbac3\\unittestbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8057EBB-A08E-422E-9997-7831E665629D}|UnitTestCanBac3\\UnitTestCanBac3.csproj|C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\unittestcanbac3\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8057EBB-A08E-422E-9997-7831E665629D}|UnitTestCanBac3\\UnitTestCanBac3.csproj|solutionrelative:unittestcanbac3\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7049A3CB-7D14-49A2-A9F1-F30804FA43C2}|Cau2\\Cau2.csproj|C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\cau2\\canbac3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7049A3CB-7D14-49A2-A9F1-F30804FA43C2}|Cau2\\Cau2.csproj|solutionrelative:cau2\\canbac3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E90413-C259-4F53-BDA1-D3A2ECC7262E}|UnitTestCau1\\UnitTestCau1.csproj|C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\unittestcau1\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7E90413-C259-4F53-BDA1-D3A2ECC7262E}|UnitTestCau1\\UnitTestCau1.csproj|solutionrelative:unittestcau1\\data\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7049A3CB-7D14-49A2-A9F1-F30804FA43C2}|Cau2\\Cau2.csproj|C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\cau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7049A3CB-7D14-49A2-A9F1-F30804FA43C2}|Cau2\\Cau2.csproj|solutionrelative:cau2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED739003-51D5-4BA3-A79C-E6DDAA7C5B18}|Cau1\\Cau1.csproj|C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\cau1\\sochan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED739003-51D5-4BA3-A79C-E6DDAA7C5B18}|Cau1\\Cau1.csproj|solutionrelative:cau1\\sochan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E90413-C259-4F53-BDA1-D3A2ECC7262E}|UnitTestCau1\\UnitTestCau1.csproj|C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\unittestcau1\\testsochan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E90413-C259-4F53-BDA1-D3A2ECC7262E}|UnitTestCau1\\UnitTestCau1.csproj|solutionrelative:unittestcau1\\testsochan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED739003-51D5-4BA3-A79C-E6DDAA7C5B18}|Cau1\\Cau1.csproj|C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\cau1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED739003-51D5-4BA3-A79C-E6DDAA7C5B18}|Cau1\\Cau1.csproj|solutionrelative:cau1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.csv",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCanBac3\\data\\data.csv",
+              "RelativeDocumentMoniker": "UnitTestCanBac3\\data\\data.csv",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCanBac3\\data\\data.csv",
+              "RelativeToolTip": "UnitTestCanBac3\\data\\data.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-24T07:12:56.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestBai2.cs",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCanBac3\\UnitTestBai2.cs",
+              "RelativeDocumentMoniker": "UnitTestCanBac3\\UnitTestBai2.cs",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCanBac3\\UnitTestBai2.cs",
+              "RelativeToolTip": "UnitTestCanBac3\\UnitTestBai2.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:08:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanBac3.cs",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau2\\CanBac3.cs",
+              "RelativeDocumentMoniker": "Cau2\\CanBac3.cs",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau2\\CanBac3.cs",
+              "RelativeToolTip": "Cau2\\CanBac3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:03:18.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau2\\Program.cs",
+              "RelativeDocumentMoniker": "Cau2\\Program.cs",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau2\\Program.cs",
+              "RelativeToolTip": "Cau2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:02:22.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.csv",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCau1\\data\\data.csv",
+              "RelativeDocumentMoniker": "UnitTestCau1\\data\\data.csv",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCau1\\data\\data.csv",
+              "RelativeToolTip": "UnitTestCau1\\data\\data.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-24T06:57:08.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestSoChan.cs",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCau1\\TestSoChan.cs",
+              "RelativeDocumentMoniker": "UnitTestCau1\\TestSoChan.cs",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\UnitTestCau1\\TestSoChan.cs",
+              "RelativeToolTip": "UnitTestCau1\\TestSoChan.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:50:43.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoChan.cs",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau1\\SoChan.cs",
+              "RelativeDocumentMoniker": "Cau1\\SoChan.cs",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau1\\SoChan.cs",
+              "RelativeToolTip": "Cau1\\SoChan.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:48:43.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau1\\Program.cs",
+              "RelativeDocumentMoniker": "Cau1\\Program.cs",
+              "ToolTip": "C:\\Users\\MINHTHUAT\\Desktop\\KTTH_DBCLvaKTPM\\THBTTK\\Cau1\\Program.cs",
+              "RelativeToolTip": "Cau1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:47:56.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

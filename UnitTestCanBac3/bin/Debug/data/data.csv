@@ -1,0 +1,11 @@
+Description,a,b
+"Test case 1",1,1
+"Test case 2",0,0
+"Test case 3",8,2
+"Test case 4",27,3
+"Test case 5",-1,-1
+"Test case 6",-8,-2
+"Test case 7",-27,-3
+"Test case 8",0.001,0.01
+"Test case 9",-0.001,-0.01
+
